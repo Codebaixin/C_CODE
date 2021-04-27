@@ -1,0 +1,11 @@
+﻿  test.c
+F:\C++资料\C语言代码\test 4.26\test 4.26\test.c(205,11): warning C4477: “scanf”: 格式字符串“%11d”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+F:\C++资料\C语言代码\test 4.26\test 4.26\test.c(205,11): message : 请考虑在格式字符串中使用“%lld”
+F:\C++资料\C语言代码\test 4.26\test 4.26\test.c(205,11): message : 请考虑在格式字符串中使用“%I64d”
+F:\C++资料\C语言代码\test 4.26\test 4.26\test.c(205,11): warning C4477: “scanf”: 格式字符串“%11d”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+F:\C++资料\C语言代码\test 4.26\test 4.26\test.c(205,11): message : 请考虑在格式字符串中使用“%lld”
+F:\C++资料\C语言代码\test 4.26\test 4.26\test.c(205,11): message : 请考虑在格式字符串中使用“%I64d”
+F:\C++资料\C语言代码\test 4.26\test 4.26\test.c(227,12): warning C4477: “printf”: 格式字符串“%11d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+F:\C++资料\C语言代码\test 4.26\test 4.26\test.c(227,12): message : 请考虑在格式字符串中使用“%lld”
+F:\C++资料\C语言代码\test 4.26\test 4.26\test.c(227,12): message : 请考虑在格式字符串中使用“%I64d”
+  test 4.26.vcxproj -> F:\C++资料\C语言代码\test 4.26\Debug\test 4.26.exe
