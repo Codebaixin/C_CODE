@@ -1,0 +1,4 @@
+﻿  test.c
+F:\C++资料\C语言代码\test 4.28\test 4.28\test.c(151,19): warning C4018: “<=”: 有符号/无符号不匹配
+F:\C++资料\C语言代码\test 4.28\test 4.28\test.c(153,23): warning C4018: “<=”: 有符号/无符号不匹配
+  test 4.28.vcxproj -> F:\C++资料\C语言代码\test 4.28\Debug\test 4.28.exe
