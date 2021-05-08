@@ -1,0 +1,14 @@
+﻿  test.c
+D:\C语言学习\C语言代码\test 5.5\test 5.5\test.c(128,1): error C2059: 语法错误:“}”
+C:\VS2019\Community\VC\Tools\MSVC\14.28.29910\include\vcruntime.h(345,64): error C2146: 语法错误: 缺少“)”(在标识符“_StackCookie”的前面)
+C:\VS2019\Community\VC\Tools\MSVC\14.28.29910\include\vcruntime.h(345,64): error C2061: 语法错误: 标识符“_StackCookie”
+C:\VS2019\Community\VC\Tools\MSVC\14.28.29910\include\vcruntime.h(345,64): error C2059: 语法错误:“;”
+C:\VS2019\Community\VC\Tools\MSVC\14.28.29910\include\vcruntime.h(345,76): error C2059: 语法错误:“)”
+C:\VS2019\Community\VC\Tools\MSVC\14.28.29910\include\vcruntime.h(356,18): error C2061: 语法错误: 标识符“__security_cookie”
+C:\VS2019\Community\VC\Tools\MSVC\14.28.29910\include\vcruntime.h(356,18): error C2059: 语法错误:“;”
+C:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(354,10): error C2081: “uintptr_t”: 形参表中的名称非法
+C:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2146: 语法错误: 缺少“)”(在标识符“_Reserved”的前面)
+C:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2081: “uintptr_t”: 形参表中的名称非法
+C:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2061: 语法错误: 标识符“_Reserved”
+C:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2059: 语法错误:“;”
+C:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,35): error C2059: 语法错误:“)”
